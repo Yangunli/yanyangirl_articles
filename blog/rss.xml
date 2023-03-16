@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Yanyangirl踩坑史 Blog</title>
-        <link>https://yangunli.github.io/yanyangirl_articles/blog</link>
+        <link>https://yangunli.github.io/yanyangirl_articles/blog/</link>
         <description>Yanyangirl踩坑史 Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
