@@ -1,9 +1,10 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
-# 網站說明
+# About
 
-內容絕大部分是分享在做 side project 或是準備做 side project 時，遇到的坑。
+HELLO 我是 YANYAN，本站絕大部分是分享我在做 side project 或是準備做 side project 時遇到的坑。
 
-以及自己之前寫過的分享教學，大部分是有關 CSS。
+還有一些有的沒的筆記，整理筆記是我排遣排遣焦慮的途徑，就是這樣～希望內容對你有幫助！

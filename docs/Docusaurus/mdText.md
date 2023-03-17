@@ -83,24 +83,26 @@ ggggg
 >
 > — Docusaurus
 
-<details>
-  <summary>Toggle me!</summary>
-  <div>
-    <div>This is the detailed content</div>
-    <br/>
-    <details>
-      <summary>
-        Nested toggle! Some surprise inside...
-      </summary>
-      <div>😲😲😲😲😲</div>
-    </details>
-  </div>
-</details>
-
 ```
 > Easy to maintain open source documentation websites.
 >
 > — Docusaurus
+
+```
+
+```js title="Create a Accordion"
+<details>
+  <summary>Toggle me!</summary>
+  <div>
+    <div>This is the detailed content</div>
+    <br />
+    <details>
+      <summary>Nested toggle! Some surprise inside...</summary>
+      <div>😲😲😲😲😲</div>
+    </details>
+  </div>
+</details>
+```
 
 <details>
   <summary>Toggle me!</summary>

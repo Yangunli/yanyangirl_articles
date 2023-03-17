@@ -1,8 +1,8 @@
 {
   "label": "Webpack 5",
-  "position": 5,
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Webpack啊~求求你讓我們變熟吧"
+    "description": "Webpack啊~求求你讓我們變熟吧!Webpack 5 的各種 Plugin"
   }
 }
