@@ -1,0 +1,8 @@
+{
+  "label": "Browser",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "那些被支援度坑過的事情"
+  }
+}

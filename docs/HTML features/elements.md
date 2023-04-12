@@ -1,4 +1,4 @@
-# difference with div & span
+# Difference with div & span
 
 div is block element, but span is inline element.
 
