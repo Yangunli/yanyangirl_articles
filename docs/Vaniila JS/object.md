@@ -1,4 +1,4 @@
-# object methods
+# [JS] object methods
 
 ### 阿捏就不用 forEach 了
 

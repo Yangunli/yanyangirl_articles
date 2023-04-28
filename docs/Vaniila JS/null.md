@@ -1,4 +1,4 @@
-# null & undefined
+# [JS] null & undefined
 
 ### 所以我說那個 null 和 undefined
 

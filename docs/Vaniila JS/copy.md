@@ -1,4 +1,4 @@
-# deep copy & shallow copy
+# [JS] deep copy & shallow copy
 
 ```js title="Deep Copy 比較單純的場景"
 let newObj = JSON.parse(JSON.stringify(oldObj));

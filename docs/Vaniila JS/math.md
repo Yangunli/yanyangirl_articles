@@ -1,4 +1,4 @@
-# math methods
+# [JS] math methods
 
 #### 取最小值
 

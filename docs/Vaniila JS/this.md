@@ -1,4 +1,4 @@
-# this keyword
+# [JS] this keyword
 
 :::info
 The call() method takes arguments separately.

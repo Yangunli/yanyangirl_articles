@@ -1,4 +1,4 @@
-# Props & State
+# [react] Props & State
 
 在 React 裡使用類似 innerHTML 的方法 =>dangerouslySetInnerHTML
 

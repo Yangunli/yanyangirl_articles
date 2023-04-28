@@ -1,4 +1,4 @@
-# [React]Props
+# [react] Props
 
 - Every parent component can pass some information to its child components by giving them props.
 - Props are read-only snapshots in time: every render receives a new version of props.
