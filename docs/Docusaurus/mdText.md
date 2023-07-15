@@ -117,7 +117,6 @@ ggggg
     </details>
   </div>
 </details>
-```
 
 ### Add Custom Component
 
