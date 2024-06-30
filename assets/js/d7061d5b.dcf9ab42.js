@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyanyangirl_dev=self.webpackChunkyanyangirl_dev||[]).push([[881],{5812:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/yanyangirl_articles/blog/tags/hello","allTagsPath":"/yanyangirl_articles/blog/tags","count":2}')}}]);
