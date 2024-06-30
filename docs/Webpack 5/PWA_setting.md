@@ -4,7 +4,6 @@
 
 ```
 npx create-react-app my-app --template cra-template-pwa
-
 ```
 
 但如果是用 Webpack 創建 React 專案的話，那就需要一些設定。
